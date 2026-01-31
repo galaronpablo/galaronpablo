@@ -6,15 +6,14 @@
 
   ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0033cc&center=true&vCenter=true&width=500&lines=👨‍💻+Data+Scientist+%7C+Data+Analyst" alt="Typing SVG" /></a>
 
-  <br/>
+<br/>
 
+<div align="left">
+ 
+    * 🎓 Third-year  **Data Science Student** at Universidad Complutense de Madrid (UCM).
+    * 🔭 Focused on **Machine Learning**, **Statistics**, and **Data Analysis**.
+    * 📊 Interested in transforming raw data into **actionable insights**.
 
-  <p>
-    - Third-year Data Science student at UCM with a solid background in <b>Mathematics and Statistics</b>.
-    <br>
-    - I am passionate about solving <b>real-world problems using data</b>.
-    <br><br>
-    - I have practical experience in <b>Machine Learning</b> and analyzing complex datasets using <b>Python, R, SAS, and SQL</b>.
   </p>
 
 </div>

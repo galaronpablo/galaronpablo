@@ -75,7 +75,9 @@ about_me = {
 
  <div align="center">
   <br/>
-  <h3>🧪 Selected Academic Projects</h3>
+  <h3> 
+    
+  ## 🧪 Selected Academic Projects</h3>
   <p><i>Some of the experiments and coursework developed during my degree</i></p>
 </div>
 

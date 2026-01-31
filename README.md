@@ -19,6 +19,7 @@
 
 <br/>
 
+
 ```python
 about_me = {
     "name": "Pablo Galarón Mateo",
@@ -50,7 +51,7 @@ about_me = {
 }
 
 ```
-
+<div align="center">
 
 ## 💻 Programming Languages & Tools
 

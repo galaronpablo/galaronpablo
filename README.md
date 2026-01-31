@@ -101,11 +101,9 @@ about_me = {
  <a href="https://www.linkedin.com/in/pablo-galarón-mateo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-  <a href="mailto:galaronpablo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-
-  <br/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=galaronpablo@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
   <a href="tel:+34677631771">
     <img src="https://img.shields.io/badge/WhatsApp%20%2F%20Phone-+34%20677%2063%2017%2071-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Number"/>

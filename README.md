@@ -4,11 +4,10 @@
 
   # Hi, I'm Pablo! 👋
 
-  ### 👨‍💻 <img src="https://img.shields.io/badge/Data%20Scientist-005C84?style=flat&color=005C84" height="25"/> | <img src="https://img.shields.io/badge/Data%20Analyst-D00000?style=flat&color=D00000" height="25"/>
+  ### 👨‍💻 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005C84&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Data+Analyst" alt="Typing SVG" /></a>
 
   <br/>
 
-  <br/>
 
   <p>
     - Third-year Data Science student at UCM with a solid background in <b>Mathematics and Statistics</b>.

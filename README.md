@@ -16,22 +16,22 @@
 
 ---
 
+```python
 personal_info = {
     "name": "Pablo",
-    "role": "Data Science Student",
-    "university": "Universidad Complutense de Madrid (UCM)",
+    "role": "Data Science Student 👨‍🎓",
+    "university": "Universidad Complutense de Madrid (UCM) 🏛️",
     "location": "Madrid, Spain 🇪🇸",
     "contact": {
-        "email": "your_email@email.com",
-        "phone": "+34 XXX XXX XXX"
+        "email": "galaronpablo@gmail.com 📧",
+        "linkedin": "@pablo-galar-mateo 🔗"
     },
     "currently_learning": [
-        "Machine Learning",
-        "Statistical Modeling",
-        "Data Visualization"
+        "Machine Learning 🤖",
+        "Statistical Modeling 📈",
+        "Data Visualization 📊"
     ]
 }
-
 
 
   <h3>🛠️ Mi Caja de Herramientas</h3>

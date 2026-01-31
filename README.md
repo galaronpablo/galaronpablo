@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hola, soy Pablo 👋
 
-<!--
-**galaronpablo/galaronpablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+perfil_data_scientist = {
+    "nombre": "Pablo",
+    "rol_actual": "Data Scientist",
+    "ubicacion": "España",
+    "herramientas_favoritas": ["Python 🐍", "Pandas 🐼", "Scikit-learn 🤖", "SQL 🗄️"],
+    "buscando": "Nuevos retos en Data Science",
+    "contacto": "[Tu Email Aquí]"
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

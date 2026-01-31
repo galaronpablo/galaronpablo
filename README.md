@@ -1,20 +1,21 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Data Science Banner"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Data Science Banner" />
 
-  # Hiii, I'm Pablo! 👋
+  # Hi, I'm Pablo! 👋
   ### 👨‍💻 Data Scientist | Data Analyst
 
----
+  <br/>
 
-> Third-year Data Science student at UCM with a solid background in  
-> **mathematics and statistics**. I am passionate about solving  
-> **real-world problems using data**.  
->  
-> I have practical experience in **Machine Learning** and analyzing  
-> complex datasets using **Python, R, SAS, and SQL/NoSQL**.
+  <p>
+    Third-year Data Science student at UCM with a solid background in <b>Mathematics and Statistics</b>.
+    <br>
+    I am passionate about solving <b>real-world problems using data</b>.
+    <br><br>
+    I have practical experience in <b>Machine Learning</b> and analyzing complex datasets using <b>Python, R, SAS, and SQL</b>.
+  </p>
 
----
+</div>
 
 <br/>
 
@@ -22,17 +23,12 @@
 personal_info = {
     "name": "Pablo",
     "role": "Data Science Student 👨‍🎓",
-    "university": "Universidad Complutense de Madrid (UCM) 🏛️",
     "location": "Madrid, Spain 🇪🇸",
     "contact": {
-        "email": "galaronpablo@gmail.com 📧",
-        "linkedin": "@pablo-galar-mateo 🔗"
+        "email": "galaronpablo@gmail.com",
+        "linkedin": "@pablo-galar-mateo"
     },
-    "currently_learning": [
-        "Machine Learning 🤖",
-        "Statistical Modeling 📈",
-        "Data Visualization 📊"
-    ]
+    "focus": ["Machine Learning 🤖", "Statistics 📈", "Viz 📊"]
 }
 
   <h3>🛠️ Mi Caja de Herramientas</h3>

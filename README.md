@@ -98,9 +98,9 @@ about_me = {
     <i>Open to data-driven conversations and opportunities</i>
   </p>
 
-  <a href="[https://linkedin.com/in/pablo-galar-mateo" target="_blank]>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+ <a href="https://www.linkedin.com/in/pablo-galarón-mateo/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
   <a href="mailto:galaronpablo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>

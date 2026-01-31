@@ -73,20 +73,16 @@ about_me = {
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-  <h3>🧪 Mis Experimentos y Proyectos</h3>
-  
-  | 🏆 Proyecto Destacado | 📝 Descripción | 🔧 Tech |
-  | :--- | :--- | :--- |
-  | **[Nombre Proyecto]** | Predicción de... (Edítame) | Python, ML |
-  | **[Nombre Proyecto]** | Análisis de... (Edítame) | SQL, Viz |
-
-  <br>
-  
-  <a href="https://linkedin.com/in/pablo-galar-mateo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:galaronpablo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
+ <div align="center">
+  <br/>
+  <h3>🧪 Selected Academic Projects</h3>
+  <p><i>Some of the experiments and coursework developed during my degree</i></p>
 </div>
+
+| 📂 Project | 📝 Description | 💻 Tools & Languages | 🔗 Code |
+| :--- | :--- | :--- | :---: |
+| **[Nombre Proyecto 1]** | *Brief description of the problem solved.* | 🐍 Python, Scikit-Learn | [View Repo](PON_TU_LINK_AQUI) |
+| **[Nombre Proyecto 2]** | *Brief description of the analysis.* | 📊 R, Tidyverse | [View Repo](PON_TU_LINK_AQUI) |
+| **[Nombre Proyecto 3]** | *Brief description of the database.* | 🗄️ SQL, Tableau | [View Repo](PON_TU_LINK_AQUI) |
+
+<br/>

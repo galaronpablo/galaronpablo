@@ -88,3 +88,28 @@ about_me = {
 | **[Nombre Proyecto 3]** | *Brief description of the database.* | 🗄️ SQL, Tableau | [View Repo](PON_TU_LINK_AQUI) |
 
 <br/>
+
+<br/>
+
+<div align="center">
+
+  ## 🤝 Let's Connect!</h3>
+  <p>
+    <i>Open to data-driven conversations and opportunities</i>
+  </p>
+
+  <a href="https://linkedin.com/in/pablo-galar-mateo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:galaronpablo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <br/>
+
+  <a href="tel:+34677631771">
+    <img src="https://img.shields.io/badge/WhatsApp%20%2F%20Phone-+34%20677%2063%2017%2071-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Number"/>
+  </a>
+
+</div>
+<br/>

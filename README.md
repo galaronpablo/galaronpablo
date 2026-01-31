@@ -115,10 +115,4 @@ about_me = {
     <img src="https://img.shields.io/badge/WhatsApp%20%2F%20Phone-+34%20677%2063%2017%2071-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Number"/>
   </a>
 
-<br/>
-<div align="center">
-  <a href="https://github.com/galaronpablo">
-    <img src="https://github-readme-stats.vercel.app/api?username=galaronpablo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaronpablo&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="langs"/>
-  </a>
-</div>
+

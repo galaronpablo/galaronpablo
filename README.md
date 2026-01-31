@@ -14,7 +14,7 @@
 * 🔭 Focused on **Machine Learning**, **Statistics**, and **Data Analysis**.
 * 💻 Developing projects using <a href="#tech">**diverse languages**</a>.
 * 📊 Interested in transforming raw data into **actionable insights**.
-* 💬 Open to discuss **Data Engineering** and **Statistical Modeling**.
+
 
 </div>
 <br/>
@@ -70,6 +70,7 @@ about_me = {
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <br/>
 
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SAS-007AC9?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/SPSS-1F3763?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-e76e00?style=for-the-badge&logo=mathworks&logoColor=white" />

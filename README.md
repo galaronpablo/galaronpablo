@@ -9,15 +9,14 @@
 <br/>
 
 <div align="left">
- 
-    * 🎓 Third-year  **Data Science Student** at Universidad Complutense de Madrid (UCM).
-    * 🔭 Focused on **Machine Learning**, **Statistics**, and **Data Analysis**.
-    * 📊 Interested in transforming raw data into **actionable insights**.
-
-  </p>
+  
+* 🎓 **Data Science Student** at Universidad Complutense de Madrid (UCM).
+* 🔭 Focused on **Machine Learning**, **Statistics**, and **Data Analysis**.
+* 💻 Developing projects using <a href="#tech">**diverse languages**</a>.
+* 📊 Interested in transforming raw data into **actionable insights**.
+* 💬 Open to discuss **Data Engineering** and **Statistical Modeling**.
 
 </div>
-
 <br/>
 
 
@@ -53,6 +52,8 @@ about_me = {
 
 ```
 <div align="center">
+
+<a id="tech"></a>
 
 ## 💻 Programming Languages & Tools
 

@@ -19,7 +19,7 @@
 </div>
 <br/>
 
-
+<div align="center">
 ```python
 about_me = {
     "name": "Pablo Galarón Mateo",

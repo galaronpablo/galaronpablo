@@ -8,11 +8,11 @@
   <br/>
 
   <p>
-    Third-year Data Science student at UCM with a solid background in <b>Mathematics and Statistics</b>.
+    - Third-year Data Science student at UCM with a solid background in <b>Mathematics and Statistics</b>.
     <br>
-    I am passionate about solving <b>real-world problems using data</b>.
+    - I am passionate about solving <b>real-world problems using data</b>.
     <br><br>
-    I have practical experience in <b>Machine Learning</b> and analyzing complex datasets using <b>Python, R, SAS, and SQL</b>.
+    - I have practical experience in <b>Machine Learning</b> and analyzing complex datasets using <b>Python, R, SAS, and SQL</b>.
   </p>
 
 </div>

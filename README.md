@@ -16,8 +16,7 @@
 
 ---
 
-# Hi, I'm Pablo! 👋
-### 👨‍💻 Data Science Student | UCM Madrid
+<br/>
 
 ```python
 personal_info = {

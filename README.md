@@ -20,8 +20,8 @@
 <br/>
 
 ```python
-data_scientist_profile = {
-    "name": "Pablo",
+about_me = {
+    "name": "Pablo Galarón Mateo",
     "role": "Data Science Student 👨‍🎓",
     "location": "Madrid, Spain 🇪🇸",
     
@@ -45,7 +45,7 @@ data_scientist_profile = {
     # 📬 Contact Info
     "contact": {
         "email": "galaronpablo@gmail.com",
-        "phone": "+34 XXX XXX XXX" 
+        "phone": "+34 677 63 17 71" 
     }
 }
 

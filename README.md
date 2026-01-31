@@ -2,18 +2,19 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Data Science Banner"/>
 
-  # ¡Hola, soy Pablo! 👋
-  ### 👨‍💻 Data Scientist | Python Lover | Problem Solver
+  # Hiii, I'm Pablo! 👋
+  ### 👨‍💻 Data Scientist | Data Analyst
 
-  ---
+---
 
-  <p>
-     Investigo datos para encontrar respuestas. Especializado en Machine Learning y Análisis Predictivo.
-     <br>
-     <i>"Tortura los datos y confesarán cualquier cosa."</i>
-  </p>
+> Third-year Data Science student at UCM with a solid background in  
+> **mathematics and statistics**. I am passionate about solving  
+> **real-world problems using data**.  
+>  
+> I have practical experience in **Machine Learning** and analyzing  
+> complex datasets using **Python, R, SAS, and SQL/NoSQL**.
 
-  <br>
+---
 
   <a href="https://github.com/galaronpablo">
     <img src="https://github-readme-stats.vercel.app/api?username=galaronpablo&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats"/>

@@ -16,14 +16,23 @@
 
 ---
 
-  <a href="https://github.com/galaronpablo">
-    <img src="https://github-readme-stats.vercel.app/api?username=galaronpablo&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats"/>
-  </a>
-  <a href="https://github.com/galaronpablo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaronpablo&layout=compact&theme=radical&hide_border=true" height="160" alt="langs"/>
-  </a>
+personal_info = {
+    "name": "Pablo",
+    "role": "Data Science Student",
+    "university": "Universidad Complutense de Madrid (UCM)",
+    "location": "Madrid, Spain 🇪🇸",
+    "contact": {
+        "email": "your_email@email.com",
+        "phone": "+34 XXX XXX XXX"
+    },
+    "currently_learning": [
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization"
+    ]
+}
 
-  <br><br>
+
 
   <h3>🛠️ Mi Caja de Herramientas</h3>
   

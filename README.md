@@ -4,10 +4,9 @@
 
   # Hi, I'm Pablo! 👋
 
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3591F7&center=true&vCenter=true&width=435&lines=Data+Scientist+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Python+%26+SQL+Lover+%F0%9F%90%8D;Solving+problems+with+Data+%F0%9F%93%8A" alt="Typing SVG" />
-</a>
-  ### 👨‍💻 Data Scientist | Data Analyst
+  ### 👨‍💻 <img src="https://img.shields.io/badge/Data%20Scientist-005C84?style=flat&color=005C84" height="25"/> | <img src="https://img.shields.io/badge/Data%20Analyst-D00000?style=flat&color=D00000" height="25"/>
+
+  <br/>
 
   <br/>
 

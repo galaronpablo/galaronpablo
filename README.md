@@ -42,8 +42,16 @@ data_scientist_profile = {
         ]
     },
     
-    "contact": "galaronpablo@gmail.com 📧"
+    # 📬 Contact Info
+    "contact": {
+        "email": "galaronpablo@gmail.com",
+        "phone": "+34 XXX XXX XXX" 
+    }
 }
+
+```
+
+
   <h3>🛠️ Mi Caja de Herramientas</h3>
   
   <p>

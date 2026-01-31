@@ -11,7 +11,7 @@
 <div align="left">
   
 * 🎓 **Data Science Student** at Universidad Complutense de Madrid (UCM).
-* 💼 Currently completing an **Internship** at **CES Cardenal Cisneros** <img src="https://logo.clearbit.com/cescisneros.es" height="17"/> working with **R** & **Power BI**.
+* 💼 Currently completing an **Internship** at **CES Cardenal Cisneros** <img src="https://www.google.com/s2/favicons?domain=www.cescisneros.es" height="17" style="vertical-align:middle"/> working with **R** & **Power BI**.
 * 🔭 Focused on **Machine Learning**, **Statistics**, and **Data Analysis**.
 * 💻 Developing projects using <a href="#tech">**diverse languages**</a>.
 * 📊 Interested in transforming raw data into **actionable insights**.

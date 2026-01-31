@@ -20,17 +20,30 @@
 <br/>
 
 ```python
-personal_info = {
+data_scientist_profile = {
     "name": "Pablo",
     "role": "Data Science Student 👨‍🎓",
     "location": "Madrid, Spain 🇪🇸",
-    "contact": {
-        "email": "galaronpablo@gmail.com",
-        "linkedin": "@pablo-galar-mateo"
+    
+    # 🧠 My Technical Expertise
+    "skills": {
+        "Machine Learning 🤖": [
+            "Supervised & Unsupervised Learning",
+            "Spatial Data & Social Network Analysis",
+            "Unstructured Data Processing"
+        ],
+        "Data Engineering ⚙️": [
+            "SQL & NoSQL Database Management",
+            "Data Cleaning & Preprocessing Pipelines"
+        ],
+        "Statistics 📈": [
+            "Time Series Analysis",
+            "Econometrics Applied to Data Science"
+        ]
     },
-    "focus": ["Machine Learning 🤖", "Statistics 📈", "Viz 📊"]
+    
+    "contact": "galaronpablo@gmail.com 📧"
 }
-
   <h3>🛠️ Mi Caja de Herramientas</h3>
   
   <p>

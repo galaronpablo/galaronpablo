@@ -113,3 +113,12 @@ about_me = {
 
 </div>
 <br/>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/galaronpablo">
+    <img src="https://github-readme-stats.vercel.app/api?username=galaronpablo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaronpablo&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="langs"/>
+  </a>
+  <br/>
+</div>

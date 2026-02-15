@@ -89,10 +89,10 @@ about_me = {
 
 | 📂 Project | 📝 Description | 💻 Tools & Languages | 🔗 Code |
 | :--- | :--- | :--- | :---: |
-| **Banking Subscription Prediction** | Predictive classification system comparing Random Forest and Gradient Boosting to optimize bank marketing campaigns. | 📊 R, Caret, Random Forest, GBM | [View Repo](https://github.com/Pablogalaron/Banking-Subscription-Prediction-ML) |
+| **Banking Subscription Prediction** | Predictive classification system comparing Random Forest and Gradient Boosting to optimize bank marketing campaigns. | 📊 R, Caret, Random Forest, GBM | [View Repo](https://github.com/galaronpablo/Banking-Subscription-Prediction-ML) |
+| **Student Segmentation Analysis** | Comprehensive unsupervised study using PCA, Factorial, and Cluster Analysis (Ward & FASTCLUS) to identify academic profiles. | 📈 SAS (Multivariate), Statistics | [View Repo](https://github.com/Pablogalaron/Unsupervised-Learning-Student-Analysis) |
 | **Property Management System** | End-to-end relational database design (E-R) for property firms, including automation via SQL Triggers and complex views. | 🗄️ SQL (MySQL), Draw.io | [View Repo](https://github.com/Pablogalaron/Property-Management-Database-SQL) |
-| **Bitcoin Econometric Analysis** | Advanced time-series study (ARIMAX, Cointegration, and 2SLS) analyzing BTC price dynamics vs. NASDAQ and FED rates. | 📈 R, Time Series, Econometrics | [View Repo](https://github.com/Pablogalaron/Bitcoin-Econometrics-Analysis) |
-
+| **Bitcoin Econometric Analysis** | Advanced time-series study (ARIMAX, Cointegration, and 2SLS) analyzing BTC price dynamics vs. NASDAQ and FED rates. | 📉 R, Time Series, Econometrics | [View Repo](https://github.com/Pablogalaron/Bitcoin-Econometrics-Analysis) |
 <br/>
 
 <br/>

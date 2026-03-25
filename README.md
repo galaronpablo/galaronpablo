@@ -4,7 +4,7 @@
 
   # Hi, I'm Pablo! 👋
 
-  ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0033cc&center=true&vCenter=true&width=500&lines=👨‍💻+Data+Scientist+%7C" alt="Typing SVG" /></a>
+  ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0033cc&center=true&vCenter=true&width=500&lines=👨‍💻+Data+ScientistC" alt="Typing SVG" /></a>
 
 <br/>
 

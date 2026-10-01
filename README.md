@@ -11,7 +11,7 @@
 <div align="left">
   
 * 🎓 **Data Science Student** at Universidad Complutense de Madrid (UCM).
-* 💼 Currently completing an **Internship** at **Repsol** <img src="https://www.google.com/search?sca_esv=a6f3ff406f75be40&sxsrf=APpeQntt0z2YfsB1_UaLBDrTiF15mZyQAA:1790869926597&udm=2&fbs=ABfTbFUDadgeu2mn4mYJ8iEZ1GUDIoZ8TJcYV6w5Zw4mLiz0qaQUZ7s-xEllGFYzQM2ZnNyACTdKvqMtqqp3WpWy1qQgsIldulz6RQd-0NXKIv3UpxaFpSgWRFrp2xK_tlj-xL8cyKjU35klUWt68G2lcd1zHsEOi5mXyb0KfAxKtXjmze3m5F72lANtmkCch_49_SKIhLNN&q=repsol&sa=X&ved=2ahUKEwjk4cCulpmXAxUFQUEAHemZBt4QtKgLegQIFBAB&biw=1536&bih=695&dpr=1.25#sv=CAMSURoyKhBlLTVYWDFJZGNnT0xfLXlNMg41WFgxSWRjZ09MXy15TToOM1VoSG5wek9YZFJhek0gBCoXCgFzEhBlLTVYWDFJZGNnT0xfLXlNGAEwARgHIIqG7c0OSggQAhgBIAIoAQ" height="17" style="vertical-align:middle"/>.
+* 💼 Currently completing an **Internship** at **Repsol** <img src="/repsol_logo.png"/>.
 * 🔭 Focused on **Machine Learning**, **Statistics**, and **Data Analysis**.
 * 💻 Developing projects using <a href="#tech">**diverse languages**</a>.
 * 📊 Interested in transforming raw data into **actionable insights**.

@@ -29,23 +29,32 @@ about_me = {
     "role": "Data Science Student 👨‍🎓",
     "location": "Madrid, Spain 🇪🇸",
     
-    # 🧠 My Technical Expertise
-    "skills": {
-        "Machine Learning 🤖": [
-            "Supervised & Unsupervised Learning",
-            "Spatial Data & Social Network Analysis",
-            "Unstructured Data Processing",
-            "Text Mining & Natural Language Processing (NLP)"
-        ],
-        "Data Engineering ⚙️": [
-            "SQL & NoSQL Database Management",
-            "Data Cleaning & Preprocessing Pipelines"
-        ],
-        "Statistics 📈": [
-            "Time Series Analysis",
-            "Econometrics Applied to Data Science"
-        ]
-    },
+  # 🧠 My Technical Expertise
+"skills": {
+    "Machine Learning 🤖": [
+        "Supervised & Unsupervised Learning",
+        "Predictive Modeling & Model Evaluation",
+        "Spatial Data & Social Network Analysis",
+        "Text Mining & Natural Language Processing (NLP)",
+        "Unstructured Data Processing"
+    ],
+    "Data Engineering ⚙️": [
+        "SQL & NoSQL Database Management",
+        "Data Cleaning & Preprocessing Pipelines",
+        "ETL & Data Integration"
+    ],
+    "Statistics 📈": [
+        "Statistical Inference & Hypothesis Testing",
+        "Time Series Analysis",
+        "Econometrics Applied to Data Science"
+    ],
+    "Big Data & Analytics 📊": [
+        "Distributed & Parallel Data Processing",
+        "Exploratory Data Analysis (EDA)",
+        "Data Visualization & Business Intelligence"
+    ]
+},
+
     
     # 📬 Contact Info
     "contact": {

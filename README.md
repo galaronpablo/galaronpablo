@@ -95,6 +95,7 @@ about_me = {
 | **Student Segmentation Analysis** | Comprehensive unsupervised study using PCA, Factorial, and Cluster Analysis (Ward & FASTCLUS) to identify academic profiles. | 📈 SAS (Multivariate), Statistics | [View Repo](https://github.com/galaronpablo/Unsupervised-Learning-Student-Analysis) |
 | **Property Management System** | End-to-end relational database design (E-R) for property firms, including automation via SQL Triggers and complex views. | 🗄️ SQL (MySQL), Draw.io | [View Repo](https://github.com/galaronpablo/Property-Management-Database-SQL) |
 | **Bitcoin Econometric Analysis** | Advanced time-series study (ARIMAX, Cointegration, and 2SLS) analyzing BTC price dynamics vs. NASDAQ and FED rates. | 📉 R, Time Series, Econometrics | [View Repo](https://github.com/galaronpablo/Bitcoin-Econometrics-Analysis) |
+| **GeoValue Madrid – Housing Price Prediction** | End-to-end housing valuation system combining Machine Learning and Spatial Statistics, with an interactive R Shiny app for property price prediction. [🚀 Live App](https://geovaluemadrid.shinyapps.io/geovalue_madrid/) | 🏠 R, Random Forest, XGBoost, Spatial Analysis, Shiny | [View Repo](https://github.com/galaronpablo/GeoValue-Madrid-Housing-Price-Prediction) |
 <br/>
 
 <br/>

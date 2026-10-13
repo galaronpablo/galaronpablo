@@ -77,6 +77,7 @@ about_me = {
   <img src="https://img.shields.io/badge/SPSS-1F3763?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-e76e00?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
 </p>
 
  <div align="center">

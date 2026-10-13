@@ -31,13 +31,17 @@ about_me = {
     
   # 🧠 My Technical Expertise
 "skills": {
-    "Machine Learning 🤖": [
-        "Supervised & Unsupervised Learning",
-        "Predictive Modeling & Model Evaluation",
-        "Spatial Data & Social Network Analysis",
-        "Text Mining & Natural Language Processing (NLP)",
-        "Unstructured Data Processing"
-    ],
+    
+"Machine Learning 🤖": [
+    "Supervised & Unsupervised Learning",
+    "Deep Learning & Neural Networks",
+    "Predictive Modeling & Model Evaluation",
+    "Spatial Data & Social Network Analysis",
+    "Text Mining & Natural Language Processing (NLP)",
+    "Large Language Models (LLMs)",
+    "Unstructured Data Processing"
+],
+
     "Data Engineering ⚙️": [
         "SQL & NoSQL Database Management",
         "Data Cleaning & Preprocessing Pipelines",

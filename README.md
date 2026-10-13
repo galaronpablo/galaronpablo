@@ -34,7 +34,8 @@ about_me = {
         "Machine Learning 🤖": [
             "Supervised & Unsupervised Learning",
             "Spatial Data & Social Network Analysis",
-            "Unstructured Data Processing"
+            "Unstructured Data Processing",
+            "Text Mining & Natural Language Processing (NLP)"
         ],
         "Data Engineering ⚙️": [
             "SQL & NoSQL Database Management",

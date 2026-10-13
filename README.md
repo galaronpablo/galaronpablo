@@ -11,7 +11,7 @@
 <div align="left">
   
 * 🎓 **Data Science Student** at Universidad Complutense de Madrid (UCM).
-* 💼 Currently completing an **Internship** at **Repsol** <img src="/repsol_logo.png"/>.
+* 💼 Currently completing an **Internship** at **Repsol** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Repsol_logo.svg/250px-Repsol_logo.svg.png" width="65" alt="Repsol"/>.
 * 🔭 Focused on **Machine Learning**, **Statistics**, and **Data Analysis**.
 * 💻 Developing projects using <a href="#tech">**diverse languages**</a>.
 * 📊 Interested in transforming raw data into **actionable insights**.

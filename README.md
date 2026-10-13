@@ -32,7 +32,7 @@ about_me = {
   # 🧠 My Technical Expertise
 "skills": {
     
-"Machine Learning 🤖": [
+  "Machine Learning 🤖": [
     "Supervised & Unsupervised Learning",
     "Deep Learning & Neural Networks",
     "Predictive Modeling & Model Evaluation",
@@ -41,7 +41,6 @@ about_me = {
     "Large Language Models (LLMs)",
     "Unstructured Data Processing"
 ],
-
     "Data Engineering ⚙️": [
         "SQL & NoSQL Database Management",
         "Data Cleaning & Preprocessing Pipelines",
